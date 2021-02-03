@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
 <!--
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
