@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
