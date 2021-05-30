@@ -25,27 +25,8 @@ Here are some ideas to get you started:
 <!--
 -->
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               35 hrs 50 mins      █████████████████████░░░░   86.57% 
-JavaScript               2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
-Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
-
-🔥 Editors: 
-VS Code                  41 hrs 23 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      41 hrs 23 mins      █████████████████████████   100.0%
-
-```
-
 
 [![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=007tom&count_private=true&show_icons=true&theme=react)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+[![007tom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhyd)](https://github.com/anuraghazra/github-readme-stats)
