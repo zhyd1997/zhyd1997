@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <!--
 -->
 
+[![007tom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhyd)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=007tom&count_private=true&show_icons=true&theme=react)
 ](https://github.com/anuraghazra/github-readme-stats)
-
-[![007tom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhyd)](https://github.com/anuraghazra/github-readme-stats)
