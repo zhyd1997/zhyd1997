@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 May, 2021 - 29 May, 2021
+Week: 23 May, 2021 - 30 May, 2021
 
-TypeScript   24 hrs 24 mins  ████████████████▒░░░░░░░░   65.93 % 
-JavaScript   6 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.53 % 
-CSS          2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON         2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Other        1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+TypeScript   24 hrs 7 mins   ██████████████████▒░░░░░░   73.11 % 
+JavaScript   3 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+CSS          2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JSON         1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Other        1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 <!--END_SECTION:waka-->
 
