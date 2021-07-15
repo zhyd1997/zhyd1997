@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
-TypeScript                 32 hrs 47 mins  ██████████████████████▓░░   91.26 % 
-JavaScript                 1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Nginx configuration file   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript                 29 hrs 9 mins   ██████████████████████▒░░   89.84 % 
+JavaScript                 1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JSON                       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Nginx configuration file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
