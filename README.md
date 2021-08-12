@@ -1,3 +1,5 @@
+![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
+![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 ### Hi there 👋🏿
 
 <!--
@@ -8,22 +10,60 @@ Here are some ideas to get you started:
 
 > Black Lives Matter. [Support the Equal Justice Initiative.](https://support.eji.org/give/153413/#!/donation/checkout)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning [Quill](https://github.com/quilljs/quill) ...
 - 👯 I’m looking for collaborators of [Eorg](https://github.com/zhyd1997/Eorg) ...
-
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
 
+  [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=%23ffffff)](https://twitter.com/Tom61319231)
+  [![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23ffffff)](mailto:zhyd007@gmail.com)
+  [![Dev.To](https://img.shields.io/badge/-Dev%2ETo-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=%23ffffff)](https://dev.to/sakuta)
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
 <!--
 -->
+
+## Hobby
+![Bilibili](https://img.shields.io/badge/-Bilibili-%23ffffff?style=flat&logo=bilibili)
+
+## Operating System & Tools
+![macOS](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
+
+![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=%23ffffff)
+![Slack](https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack&logoColor=%23ffffff)
+
+![Postman](https://img.shields.io/badge/-Postman-%23ffffff?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23ffffff)
+
+## Technology Stack
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-%23282c34?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=%23ffffff)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-%23DB7093?style=flat&logo=styled-components&logoColor=%23ffffff)
+![Storybook](https://img.shields.io/badge/-Storybook-%23ffffff?style=flat&logo=storybook)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=%23ffffff)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%23ffffff?style=flat&logo=testing%20library)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232c3a42?style=flat&logo=webpack)
+![Babel](https://img.shields.io/badge/-Babel-%23323330?style=flat&logo=babel)
+![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint&logoColor=%23ffffff)
+![Prettier](https://img.shields.io/badge/-Prettier-%231a2b34?style=flat&logo=prettier)
+
+![Node.js](https://img.shields.io/badge/-Node.js-%23333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-%23333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat&logo=mongodb)
+
+## Cloud Service
+![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat&logo=heroku&logoColor=%23430098)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-%230080FF?style=flat&logo=DigitalOcean&logoColor=%23ffffff)
+
+## Github Stats
 
 <!--START_SECTION:waka-->
 ```text
