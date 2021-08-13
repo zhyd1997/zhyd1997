@@ -29,15 +29,14 @@ Here are some ideas to get you started:
 ![Bilibili](https://img.shields.io/badge/-Bilibili-%23ffffff?style=flat&logo=bilibili)
 
 ## Operating System & Tools
-![macOS](https://img.shields.io/badge/macOS-Big%20Sur-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
+![macOS](https://img.shields.io/badge/Macbook%20Pro-Big%20Sur%20%7C%2013--inch%20%7C%208%20GB%20%7C%20Late%202013-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 
 ![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=%23ffffff)
-![Slack](https://img.shields.io/badge/-Slack-%234A154B?style=flat&logo=slack&logoColor=%23ffffff)
+![ACM Membership](https://img.shields.io/badge/-ACM%20Membership-%23ffffff?style=flat&logo=acm&logoColor=%230085CA)
 
 ![Postman](https://img.shields.io/badge/-Postman-%23ffffff?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23ffffff)
