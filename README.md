@@ -58,6 +58,11 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/-Express.js-%23333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat&logo=mongodb)
 
+## Coding Problems Exercise
+[![Codewars](https://img.shields.io/badge/-Codewars-%23ffffff?style=flat&logo=codewars&logoColor=%23B1361E)](https://www.codewars.com/users/007tom)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-%23ffffff?style=flat&logo=hackerrank&logoColor=%2300EA64)](https://www.hackerrank.com/zhyd007)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/zhyd1997/)
+
 ## Cloud Service
 ![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat&logo=heroku&logoColor=%23430098)
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-%230080FF?style=flat&logo=DigitalOcean&logoColor=%23ffffff)
