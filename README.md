@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-JavaScript   6 hrs 40 mins   ████████████████████▓░░░░   82.80 % 
-TypeScript   1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript   4 hrs 58 mins   ████████████████████████▒   97.60 % 
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
