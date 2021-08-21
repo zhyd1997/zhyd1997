@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 19 August, 2021
+Week: 14 August, 2021 - 20 August, 2021
 
 JavaScript   4 hrs 58 mins   ████████████████████████▒   97.60 % 
 TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
