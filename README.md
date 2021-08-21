@@ -59,10 +59,11 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat&logo=mongodb)
 
 ## Coding Problems Exercise
-[![Codewars](https://img.shields.io/badge/-Codewars-%23ffffff?style=flat&logo=codewars&logoColor=%23B1361E)](https://www.codewars.com/users/007tom)
+[![Codewars](https://www.codewars.com/users/007tom/badges/small)](https://www.codewars.com/users/007tom)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/zhyd1997/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-%23ffffff?style=flat&logo=hackerrank&logoColor=%2300EA64)](https://www.hackerrank.com/zhyd007)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-%23ffffff?style=flat&logo=codeforces&logoColor=%231F8ACB)](https://codeforces.com/profile/zhyd1997)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/zhyd1997/)
 
 ## Cloud Service
 ![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat&logo=heroku&logoColor=%23430098)
