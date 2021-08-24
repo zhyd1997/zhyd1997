@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
-JavaScript   1 hr 32 mins    █████████████████████████   100.00 % 
+JavaScript   26 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
