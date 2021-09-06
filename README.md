@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
+Week: 30 August, 2021 - 05 September, 2021
 
 TypeScript   2 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   42.78 % 
 JavaScript   1 hr 29 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.67 % 
