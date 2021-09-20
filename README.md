@@ -73,13 +73,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
-JavaScript   12 hrs 29 mins  ███████████████░░░░░░░░░░   59.57 % 
-CSS          3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-TypeScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JSON         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JavaScript   12 hrs 27 mins  ██████████████████▒░░░░░░   73.90 % 
+JSON         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+CSS          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 <!--END_SECTION:waka-->
 
