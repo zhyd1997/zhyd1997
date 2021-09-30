@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
+Week: 23 September, 2021 - 29 September, 2021
 
 JavaScript   5 hrs 42 mins   █████████████████████░░░░   83.46 % 
 JSON         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
