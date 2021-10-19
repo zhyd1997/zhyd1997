@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
 JavaScript   12 hrs 11 mins  ███████████░░░░░░░░░░░░░░   43.43 % 
 JSON         6 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 % 
