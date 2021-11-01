@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/-Express.js-%23333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat&logo=mongodb)
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=flat&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-%23311C87?style=flat&logo=apollo%20graphql)
+
 ## Coding Problems Exercise
 [![Codewars](https://www.codewars.com/users/007tom/badges/small)](https://www.codewars.com/users/007tom)
 
