@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 ## Cloud Service
 ![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat&logo=heroku&logoColor=%23430098)
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-%230080FF?style=flat&logo=DigitalOcean&logoColor=%23ffffff)
 
 ## Github Stats
 
