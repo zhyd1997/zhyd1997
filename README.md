@@ -76,13 +76,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-TypeScript   17 hrs 16 mins  ██████████████████████▓░░   90.73 % 
-JavaScript   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript   17 hrs 7 mins   ███████████████████████▓░   94.01 % 
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+LESS         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
