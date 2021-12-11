@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 > Black Lives Matter. [Support the Equal Justice Initiative.](https://support.eji.org/give/153413/#!/donation/checkout)
 
 <!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning *Fundamental Knowledge* ... -->
+- 🌱 I’m currently learning ...
+  -  [Crafting Interpreters](https://craftinginterpreters.com/)
+  -  [High Performance
+Browser Networking](https://hpbn.co/)
 <!-- - 👯 I’m looking for collaborators of [Eorg](https://github.com/zhyd1997/Eorg) ... -->
 <!-- - 🤔 I’m looking for help with Javascript AST or Parser ... -->
 <!-- - 💬 Ask me about ... -->
