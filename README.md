@@ -79,7 +79,7 @@ Browser Networking](https://hpbn.co/)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
 TypeScript   15 hrs 31 mins  ██████████████████████░░░   88.33 % 
 JavaScript   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
