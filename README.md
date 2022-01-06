@@ -80,13 +80,13 @@ Browser Networking](https://hpbn.co/) -->
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
+Week: 30 December, 2021 - 05 January, 2022
 
-TypeScript   13 hrs 56 mins  ███████████████████▓░░░░░   78.62 % 
-JavaScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript   14 hrs 2 mins   ███████████████████▒░░░░░   77.63 % 
+Markdown     59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JavaScript   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 <!--END_SECTION:waka-->
 
