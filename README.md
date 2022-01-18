@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [SoftMaple](https://github.com/SoftMaple):
   
-  [docs](https://github.com/SoftMaple/docs) - built with [Docusaurus V2](https://github.com/facebook/docusaurus)
+  [docs](https://github.com/SoftMaple/docs) - built with [Docusaurus 2](https://github.com/facebook/docusaurus)
   
   apps
   - [Editor](https://github.com/SoftMaple/Editor) - built with [Draftjs](https://github.com/facebook/draft-js)
