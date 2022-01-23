@@ -30,10 +30,10 @@ Browser Networking](https://hpbn.co/) -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ...
 
-  [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=%23ffffff)](https://twitter.com/Tom61319231)
+  [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=%23ffffff)](https://twitter.com/zhyd007)
   [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:zhyd007@gmail.com)
   [![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=%23ffffff)](https://stackoverflow.com/users/8537000/mai)
-  [![Dev.To](https://img.shields.io/badge/-Dev%2ETo-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=%23ffffff)](https://dev.to/sakuta)
+  [![Dev.To](https://img.shields.io/badge/-Dev%2ETo-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=%23ffffff)](https://dev.to/zhyd007)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
 <!--
@@ -101,5 +101,5 @@ Markdown     34 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=007tom&count_private=true&show_icons=true&theme=react)
+[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhyd007&count_private=true&show_icons=true&theme=react)
 ](https://github.com/anuraghazra/github-readme-stats)
