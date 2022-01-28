@@ -90,7 +90,7 @@ Browser Networking](https://hpbn.co/) -->
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
 TypeScript   13 hrs 1 min    █████████████▓░░░░░░░░░░░   54.08 % 
 JavaScript   4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
