@@ -11,15 +11,6 @@ Here are some ideas to get you started:
 > Black Lives Matter. [Support the Equal Justice Initiative.](https://support.eji.org/give/153413/#!/donation/checkout)
 
 - 🔭 I’m currently working on [SoftMaple](https://github.com/SoftMaple):
-  
-  [docs](https://github.com/SoftMaple/docs) - built with [Docusaurus 2](https://github.com/facebook/docusaurus)
-  
-  apps
-  - [Editor](https://github.com/SoftMaple/Editor) - built with [Draftjs](https://github.com/facebook/draft-js)
-  - [dashboard](https://github.com/SoftMaple/dashboard) - built with [Echarts](https://github.com/apache/echarts)
-
-  packages
-  - [draftjs-to-latex](https://github.com/zhyd1997/draftjs-to-latex) - JSON Scanner
 
 <!-- - 🌱 I’m currently learning ...
   -  [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -101,5 +92,5 @@ YAML         56 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhyd007&count_private=true&show_icons=true&theme=react)
+[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhyd1997&count_private=true&show_icons=true&theme=react)
 ](https://github.com/anuraghazra/github-readme-stats)
