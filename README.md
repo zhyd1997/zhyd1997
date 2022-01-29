@@ -90,12 +90,12 @@ Browser Networking](https://hpbn.co/) -->
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
-TypeScript   13 hrs 1 min    █████████████▓░░░░░░░░░░░   54.08 % 
-JavaScript   4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Markdown     2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-MDX          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+TypeScript   12 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.93 % 
+JavaScript   4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Markdown     3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+MDX          1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 YAML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 <!--END_SECTION:waka-->
