@@ -81,7 +81,7 @@ Browser Networking](https://hpbn.co/) -->
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 TypeScript   4 hrs 57 mins   ██████████████▒░░░░░░░░░░   57.65 % 
 Rust         1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.11 % 
