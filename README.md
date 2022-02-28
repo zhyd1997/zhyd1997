@@ -80,15 +80,18 @@ Browser Networking](https://hpbn.co/) -->
 ## Github Stats
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-TypeScript   14 hrs 58 mins  ████████████████████▒░░░░   81.90 % 
-YAML         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JSON         1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-SCSS         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+TypeScript   14 hrs 39 mins  ████████████████████▒░░░░   81.59 %
+YAML         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JSON         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+SCSS         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
+
 <!--END_SECTION:waka-->
 
 
