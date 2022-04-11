@@ -34,7 +34,7 @@ Browser Networking](https://hpbn.co/) -->
 ![Bilibili](https://img.shields.io/badge/-Bilibili-%23ffffff?style=flat&logo=bilibili)
 
 ## Operating System & Tools
-![macOS](https://img.shields.io/badge/Macbook%20Pro-Big%20Sur%20%7C%2013--inch%20%7C%208%20GB%20%7C%20Late%202013-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
+![macOS](https://img.shields.io/badge/Macbook%20Pro-Monterey%20%7C%2013--inch%20%7C%2016%20GB%20%7C%202020-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
