@@ -36,6 +36,8 @@ Browser Networking](https://hpbn.co/) -->
 ## Operating System & Tools
 ![macOS](https://img.shields.io/badge/Macbook%20Pro-Monterey%20%7C%2013--inch%20%7C%2016%20GB%20%7C%202020-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
 
+<img src="https://user-images.githubusercontent.com/31362988/165692768-690ffd03-1b8b-4d1b-92ea-bc7e60ebd043.png" width=256 height=192 />
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
