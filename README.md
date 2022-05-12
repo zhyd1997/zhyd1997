@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 
 > Black Lives Matter. [Support the Equal Justice Initiative.](https://support.eji.org/give/153413/#!/donation/checkout)
 
+<!--
 - 🔭 I’m currently working on [SoftMaple](https://github.com/SoftMaple):
+-->
 
 <!-- - 🌱 I’m currently learning ...
   -  [Crafting Interpreters](https://craftinginterpreters.com/)
