@@ -86,12 +86,13 @@ Browser Networking](https://hpbn.co/) -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-TypeScript    14 hrs 4 mins   ███████████████████▒░░░░░   76.67 %
-JavaScript    2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-JSON          1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Other         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+TypeScript    12 hrs 59 mins  ████████████████████▒░░░░   81.77 %
+JavaScript    1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+JSON          1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+XML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
