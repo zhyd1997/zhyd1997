@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 21 October 2022
+From: 15 October 2022 - To: 22 October 2022
 
-Solidity     3 hrs 25 mins   ███████████████▒░░░░░░░░░   61.29 %
-TypeScript   55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-JSON         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Text         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-TOML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Solidity     3 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.49 %
+TypeScript   2 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.32 %
+JSON         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Text         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+TOML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
