@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
 Solidity     15 mins         █████████████░░░░░░░░░░░░   51.35 %
 TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.81 %
