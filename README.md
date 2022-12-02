@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-TypeScript   5 hrs 4 mins    ████████████████████████▓   99.11 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript   5 hrs 34 mins   ████████████████████████▓   99.19 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
