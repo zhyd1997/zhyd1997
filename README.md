@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 December 2022 - To: 12 December 2022
+
+JavaScript   21 mins         ██████████████████████▒░░   89.33 %
+TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
