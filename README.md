@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 December 2022 - To: 02 January 2023
+
+JSON         10 mins         ████████████████▒░░░░░░░░   64.83 %
+MDX          4 mins          ███████░░░░░░░░░░░░░░░░░░   27.37 %
+JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
 ```
 
 <!--END_SECTION:waka-->
