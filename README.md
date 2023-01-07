@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-JavaScript   26 mins         ████████████████▒░░░░░░░░   65.01 %
-JSON         10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.61 %
-MDX          4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+JavaScript   33 mins         █████████████████▒░░░░░░░   69.86 %
+JSON         10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+MDX          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
 ```
 
 <!--END_SECTION:waka-->
