@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
 JavaScript   33 mins         █████████████████▒░░░░░░░   69.86 %
 JSON         10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
