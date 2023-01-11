@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
-JavaScript   32 mins         █████████████████████████   100.00 %
+TypeScript   4 hrs 1 min     █████████████████████▒░░░   85.95 %
+Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
