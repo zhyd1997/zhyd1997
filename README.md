@@ -36,13 +36,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-C            4 hrs 46 mins   ██████████████████████░░░   87.99 %
-TypeScript   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C            5 hrs 32 mins   ██████████████████████▒░░   89.30 %
+TypeScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
