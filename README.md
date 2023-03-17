@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2023 - To: 15 March 2023
+From: 09 March 2023 - To: 16 March 2023
 
-C            7 hrs 40 mins   ███████████████████████░░   91.70 %
-TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C            8 hrs 3 mins    ███████████████████████░░   91.41 %
+TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
