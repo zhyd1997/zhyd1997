@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
-C            8 hrs 3 mins    ███████████████████████▓░   94.49 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C            4 hrs 10 mins   ██████████████████████▓░░   90.15 %
+JavaScript   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
