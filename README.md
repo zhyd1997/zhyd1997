@@ -50,11 +50,11 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-TypeScript   32 hrs 40 mins  ████████████████████████▓   98.52 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   36 hrs 51 mins  ████████████████████████░   96.62 %
+Bash         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
