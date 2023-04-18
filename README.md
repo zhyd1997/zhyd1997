@@ -50,14 +50,14 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
-TypeScript   39 hrs 17 mins  ███████████████████▓░░░░░   78.69 %
-Vue.js       2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-JSON         2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-EJS          1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-YAML         1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-JavaScript   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   32 hrs 2 mins   ██████████████████░░░░░░░   72.64 %
+JSON         2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Vue.js       2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+EJS          1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+YAML         1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JavaScript   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
