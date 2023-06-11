@@ -50,7 +50,7 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 TypeScript   36 hrs 58 mins  ███████████████████████░░   92.42 %
 Other        2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
