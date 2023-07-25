@@ -50,12 +50,12 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-TypeScript   19 hrs 17 mins  ██████████████████████▒░░   89.84 %
-JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Other        47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript   19 hrs 11 mins  █████████████████████▓░░░   86.17 %
+JavaScript   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
