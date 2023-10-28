@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-TypeScript       29 hrs 13 mins  █████████████████████▒░░░   85.80 %
-Python           2 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Jupyter          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Assembly         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JavaScript       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript       30 hrs 54 mins  ████████████████████████░   96.10 %
+Markdown         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Other            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JSON             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TSQL             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
