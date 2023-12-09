@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-TypeScript   33 hrs 12 mins  ████████████████████░░░░░   80.30 %
-JSON         3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-JavaScript   2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Prisma       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript        33 hrs 51 mins  ███████████████████▓░░░░░   79.08 %
+JSON              3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+JavaScript        1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Prisma            47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+XML               43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
