@@ -50,7 +50,7 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
 TypeScript   29 hrs 6 mins   ███████████████████████▒░   93.44 %
 Prisma       1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
