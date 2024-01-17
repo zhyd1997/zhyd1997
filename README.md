@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-TypeScript       42 hrs 20 mins  ██████████████████████▒░░   89.63 %
-JSON             3 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JavaScript       1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-.env file        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-ESLint File      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript       38 hrs 14 mins  █████████████████████▒░░░   85.31 %
+JSON             3 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript       2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+yarn.lock        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+.env file        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
