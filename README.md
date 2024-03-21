@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-TypeScript    31 hrs 6 mins   ███████████████████████░░   92.04 %
-.env file     1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-JavaScript    32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JSON          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-TSConfig      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript    32 hrs 19 mins  ███████████████████████░░   92.45 %
+.env file     1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Image (svg)   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TSConfig      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
