@@ -50,7 +50,7 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
 TypeScript   23 hrs 22 mins  ██████████████████████▓░░   90.98 %
 JSON         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
