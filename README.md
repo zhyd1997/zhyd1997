@@ -50,13 +50,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-TypeScript       18 hrs 6 mins   █████████████▓░░░░░░░░░░░   54.09 %
-Java             7 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-JavaScript       3 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Prisma           1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-.env file        1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+TypeScript       20 hrs 35 mins  ██████████████▓░░░░░░░░░░   59.14 %
+Java             7 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Prisma           2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JavaScript       2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Text             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
