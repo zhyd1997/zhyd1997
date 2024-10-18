@@ -54,13 +54,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2024 - To: 16 October 2024
+From: 10 October 2024 - To: 17 October 2024
 
-TypeScript   5 hrs 29 mins   █████████████████▓░░░░░░░   71.14 %
-JavaScript   1 hr 38 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-.env file    20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Prisma       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JavaScript   1 hr 21 mins    ██████████████░░░░░░░░░░░   55.86 %
+TypeScript   39 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
+.env file    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Prisma       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
