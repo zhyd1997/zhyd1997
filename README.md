@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/31362988/165692768-690ffd03-1b8b-4d1b-92ea-bc7e60ebd043.png" width=256 height=192 />
 -->
-<img width="682" alt="Macbook Pro 2023" src="https://github.com/user-attachments/assets/7ea9d682-aa0e-42a8-9376-c3abf0f93cb4">
+<img width="780" alt="Macbook Pro 2023" src="https://github.com/user-attachments/assets/9644a218-a8a7-4ec4-981a-636153f8b781">
 
 - 2021
 
