@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 <!--
 -->
 
+<!--
 ![macOS](https://img.shields.io/badge/Macbook%20Pro-Monterey%20%7C%2013--inch%20%7C%2016%20GB%20%7C%202020-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
 
 <img src="https://user-images.githubusercontent.com/31362988/165692768-690ffd03-1b8b-4d1b-92ea-bc7e60ebd043.png" width=256 height=192 />
+-->
+<img width="682" alt="Macbook Pro 2023" src="https://github.com/user-attachments/assets/7ea9d682-aa0e-42a8-9376-c3abf0f93cb4">
 
 - 2021
 
