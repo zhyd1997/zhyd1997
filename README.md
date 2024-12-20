@@ -57,12 +57,9 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2024 - To: 18 December 2024
+From: 12 December 2024 - To: 19 December 2024
 
-Java         1 hr 46 mins    ███████████████████▓░░░░░   79.09 %
-TypeScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Java   1 hr 46 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
