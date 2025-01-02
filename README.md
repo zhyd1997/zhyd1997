@@ -57,13 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-YAML              54 mins         ███████████░░░░░░░░░░░░░░   43.87 %
-Java              29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-JSON              16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript        14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-textmate          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+YAML              54 mins         ████████░░░░░░░░░░░░░░░░░   31.50 %
+Python            49 mins         ███████░░░░░░░░░░░░░░░░░░   28.21 %
+Java              29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+JSON              16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+JavaScript        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 ```
 
 <!--END_SECTION:waka-->
