@@ -57,13 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-TypeScript     35 mins         ██████████░░░░░░░░░░░░░░░   39.64 %
-JSON           18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-YAML           14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-.env file      12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Bash           5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+TypeScript     39 mins         ██████████▓░░░░░░░░░░░░░░   42.08 %
+JSON           18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+YAML           15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+.env file      12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Bash           5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
