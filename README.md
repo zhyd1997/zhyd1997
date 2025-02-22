@@ -57,10 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-JavaScript   2 mins          █████████████████████████   99.74 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript        24 mins         ████████████████░░░░░░░░░   64.26 %
+Text              6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Image (svg)       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Markdown          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Project Details   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
