@@ -57,9 +57,10 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
-JavaScript   39 mins         █████████████████████████   100.00 %
+JavaScript   39 mins         ███████████████████████▒░   93.93 %
+Java         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
