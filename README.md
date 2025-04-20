@@ -57,13 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Java              7 hrs 7 mins    ███████████████████▓░░░░░   78.25 %
-Markdown          42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-XML               28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Bash              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-GitIgnore file    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Java              3 hrs 11 mins   ████████████████░░░░░░░░░   63.71 %
+Markdown          42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+XML               27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Bash              16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+SQL               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
