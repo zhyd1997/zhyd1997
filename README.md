@@ -57,13 +57,9 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Markdown       15 mins         ███████████████░░░░░░░░░░   59.44 %
-Java           9 mins          █████████▒░░░░░░░░░░░░░░░   36.85 %
-textmate       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-TypeScript     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
