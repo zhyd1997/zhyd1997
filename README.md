@@ -57,13 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 20 April 2025 - To: 27 April 2025
 
-JavaScript        6 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.78 %
-YAML              3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.52 %
-JSON              1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-EJS               35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Markdown          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+JavaScript        6 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.18 %
+YAML              3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+JSON              1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+EJS               1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Go                34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
