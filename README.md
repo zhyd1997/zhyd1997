@@ -57,9 +57,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
-No activity tracked
+JSON         29 mins         ██████████████▒░░░░░░░░░░   57.22 %
+TypeScript   10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TSConfig     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
