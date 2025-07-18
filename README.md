@@ -57,9 +57,11 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-TypeScript   15 mins         █████████████████████████   100.00 %
+TypeScript   15 mins         ████████████████▒░░░░░░░░   65.02 %
+Markdown     5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+Bash         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
 ```
 
 <!--END_SECTION:waka-->
