@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 <!--
 -->
 
-<!--
-![macOS](https://img.shields.io/badge/Macbook%20Pro-Monterey%20%7C%2013--inch%20%7C%2016%20GB%20%7C%202020-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
-
-<img src="https://user-images.githubusercontent.com/31362988/165692768-690ffd03-1b8b-4d1b-92ea-bc7e60ebd043.png" width=256 height=192 />
--->
-<img width="780" alt="Macbook Pro 2023" src="https://github.com/user-attachments/assets/9644a218-a8a7-4ec4-981a-636153f8b781">
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=zhyd1997&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/zhyd1997)
 
 - 2021
 
