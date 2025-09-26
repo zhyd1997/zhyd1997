@@ -52,13 +52,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-TypeScript   9 hrs 3 mins    ███████████████████▒░░░░░   77.16 %
-JSON         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-TSConfig     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   7 hrs 4 mins    ████████████████████▓░░░░   82.16 %
+JSON         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TSConfig     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
