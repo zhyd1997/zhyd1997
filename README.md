@@ -63,5 +63,5 @@ SQL          12 mins         ███░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhyd1997&count_private=true&show_icons=true&theme=react)
+[![007tom's GitHub stats](https://github-readme-stats-sigma-nine-88.vercel.app/api?username=zhyd1997&count_private=true&show_icons=true&theme=react)
 ](https://github.com/anuraghazra/github-readme-stats)
