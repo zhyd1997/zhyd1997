@@ -52,11 +52,10 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-TypeScript   45 mins         ████████████████▒░░░░░░░░   65.18 %
-JSON         20 mins         ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JSON   20 mins         ████████████████████▓░░░░   82.42 %
+YAML   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
 ```
 
 <!--END_SECTION:waka-->
