@@ -52,7 +52,7 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
 JSON         1 hr 37 mins    ███████████▒░░░░░░░░░░░░░   44.84 %
 TypeScript   1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   35.76 %
