@@ -52,11 +52,9 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-SQL          12 mins         ██████████▒░░░░░░░░░░░░░░   41.20 %
-JSON         9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.88 %
-TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.93 %
+TypeScript   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
