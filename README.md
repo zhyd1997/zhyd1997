@@ -52,13 +52,11 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-TypeScript       1 hr 40 mins    ████████████░░░░░░░░░░░░░   48.58 %
-Bash             25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-JSON             18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Git Config       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-SQL              13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+TypeScript   1 hr 5 mins     ██████████████░░░░░░░░░░░   56.10 %
+CSS          42 mins         █████████░░░░░░░░░░░░░░░░   36.00 %
+Git Config   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
