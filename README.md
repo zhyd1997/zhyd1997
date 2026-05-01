@@ -52,13 +52,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2026 - To: 29 April 2026
+From: 23 April 2026 - To: 30 April 2026
 
-TypeScript   2 hrs 21 mins         ███████████████░░░░░░░░░░   59.81 %
-Other        55 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
-TOML         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-SQL          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Text         8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+TypeScript   54 mins               ██████████████████▓░░░░░░   74.34 %
+SQL          8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Other        8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
