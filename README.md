@@ -52,13 +52,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 22 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-TypeScript   18 hrs 3 mins         ██████████████████▓░░░░░░   75.22 %
-Markdown     3 hrs 12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-JavaScript   1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JSON         59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-CSS          15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript   12 hrs 28 mins        ██████████████████▓░░░░░░   74.47 %
+Markdown     2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JSON         58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+JavaScript   40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+YAML         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
