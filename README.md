@@ -52,7 +52,7 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
 TypeScript   5 hrs 37 mins         ███████████▓░░░░░░░░░░░░░   46.95 %
 Markdown     4 hrs 12 mins         ████████▓░░░░░░░░░░░░░░░░   35.18 %
