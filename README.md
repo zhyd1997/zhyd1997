@@ -52,9 +52,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Other   9 mins                █████████████████████████   100.00 %
+TypeScript   2 hrs 20 mins         ██████████▒░░░░░░░░░░░░░░   41.91 %
+Markdown     1 hr 20 mins          ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Prisma       35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Other        28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+YAML         21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
