@@ -52,12 +52,10 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-TypeScript   29 mins               ███████████████▒░░░░░░░░░   60.93 %
-Other        14 mins               ███████▒░░░░░░░░░░░░░░░░░   29.27 %
-JavaScript   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Markdown     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+TypeScript   24 mins               ████████████████████████░   96.06 %
+Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
