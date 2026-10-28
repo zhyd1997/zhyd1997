@@ -52,13 +52,13 @@ Remote from China
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Other        4 hrs 17 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
-Markdown     1 hr 22 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-TOML         1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Docker       1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-TypeScript   1 hr                  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Other        4 hrs 26 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Markdown     3 hrs 5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+TOML         1 hr 59 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Docker       1 hr 9 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Bash         1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 ```
 
 <!--END_SECTION:waka-->
